@@ -18,7 +18,7 @@
 
         function getFeaturedBooks() {
             var featuredBooks = [
-                {title: 'War and Peace', author:'Tolstoy', price:'7.58', description:'blah, blah, blah'},
+                { title: 'War and Peace', author: 'Tolstoy', price: '7.58', description: 'blah, blah, blah' },
                 { title: 'The Hours', author: 'Cunningham', price: '13.47', description: 'blah, blah, blah' },
                 { title: 'The Trial', author: 'Kafka', price: '23.66', description: 'blah, blah, blah' },
                 { title: 'Neuromancer', author: 'Gibson', price: '12.78', description: 'blah, blah, blah' },
